@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HDMS\\Hdms.Api\\wwwroot\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769392466145.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769392466145.jpg"
+    },
+    {
+      "Id": "D:\\HDMS\\Hdms.Api\\wwwroot\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769634863571.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769634863571.jpeg"
+    },
+    {
+      "Id": "D:\\HDMS\\Hdms.Api\\wwwroot\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769770826555.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\34bb1e46-510c-4a0d-8e96-fe87c29fcf9d_639029769770826555.jpg"
+    },
+    {
+      "Id": "D:\\HDMS\\Hdms.Api\\wwwroot\\uploads\\notices\\329ed6a6-5f30-4af1-b26e-35ddd16901a3_210143 (8).pdf",
+      "PackagePath": "staticwebassets\\uploads\\notices\\329ed6a6-5f30-4af1-b26e-35ddd16901a3_210143 (8).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hdms.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hdms.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hdms.Api.props",
+      "PackagePath": "build\\Hdms.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hdms.Api.props",
+      "PackagePath": "buildMultiTargeting\\Hdms.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hdms.Api.props",
+      "PackagePath": "buildTransitive\\Hdms.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
